@@ -1,0 +1,19 @@
+{
+  "name": "observability",
+  "version": "1.0.0",
+  "description": "Observability Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursapillay/observability.git"
+  },
+  "author": "Ursa Pillay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ursapillay/observability/issues"
+  },
+  "homepage": "https://github.com/ursapillay/observability#readme"
+}
